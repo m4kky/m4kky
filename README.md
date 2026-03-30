@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Advanced System Architecture & Cloud Native**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Node.js, Python, API Development**
-- 📫 How to reach me: **[Your Email/Contact]**
+- 📫 How to reach me: **m4kkyw@gmail.com**
 - ⚡ Fun fact: **I love turning coffee into code!**
 
 ---
